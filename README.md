@@ -5,6 +5,8 @@
 
 This repository demonstrates how `show-dependencies` duplicates arrows in dot format.
 
+Filed as [SR-12016](https://bugs.swift.org/browse/SR-12016)
+
 
 ## How to reproduce
 
